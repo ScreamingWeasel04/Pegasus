@@ -1,4 +1,8 @@
 # Pegasus
-Hello! This project is about making ROM for Android Phones and Devices. Feel free to share your ideas.
-
-Cheers!
+Hello Guys.
+  This repository is an android project making ROMs for Android Phones.
+  We plan to use Android Marshmallow (6.0.1, API 23).
+  Any Help is appreciated.
+  
+Regards,
+Screaming Weasel04
